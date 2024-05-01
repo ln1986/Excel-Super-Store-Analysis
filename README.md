@@ -1,4 +1,4 @@
-# Excel-project1   **Super Store Business Analysis – Annual Report      **                                                                                                                                          
+# **Super Store Business Analysis – Annual Report      **                                                                                                                                          
 ●	Developed a Dashboard in MS Excel, for analyzing the Business key areas.
 
 ●	Provided insights into major aspects of business (Sales, Orders, gender sales difference and top states).
