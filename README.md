@@ -1,7 +1,17 @@
 # **Super Store Business Analysis – Annual Report      **  
-**Problem Statement**
+**Problem Statement:**
 
 Vrinda Super store runs a business by selling their products in markets over online channels. Store Owner needs a power dashboard to improve his store business.
+
+**The objectives of the Sales Report include:**
+
+> Who made more purchases- Men or Women?
+> 
+> Top 10 States contributing to Sale
+> 
+> Relation between Age and Gender based on Number of Orders
+> 
+> Channel contributing the most to Sales
 
 **Data Source:**
 Kaggle, contained 31,048 rows of data with 19 no. colums of Attributes.
@@ -14,7 +24,7 @@ Kaggle, contained 31,048 rows of data with 19 no. colums of Attributes.
 5. Age Vs Gender over Sales
 6. Channels
    
-**Filters**
+**Filters:**
 1. Channels
 2. Months
 3. Category
@@ -29,6 +39,9 @@ With the help of above matrics, I Designed a powerful Dashboard to take data dri
 5. Women from Adult generation and Men from Same generation purchased most.
 6. Over 35% of the articles were sold via Amazon channel.
    
-**Conclusion**
+**Conclusion:**
 
 ●	This report will facilitate store owner to spot potential grow and allow him to gain more sales of their products in different channels in different states.
+
+●	Vrinda Store should target adult women customers aged 30-49 years, living in Maharashtra, Karnataka and Uttar Pradesh by showing them various ads and extending offers/coupons available on Amazon, Myntra and Flipkart.
+
