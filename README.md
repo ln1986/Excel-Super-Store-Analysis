@@ -1,7 +1,7 @@
 # **Super Store Business Analysis – Annual Report      **  
 **Problem Statement:**
 
-Vrinda Super store runs a business by selling their products in markets over online channels. Store Owner needs a power dashboard to improve his store business.
+Vrinda Super store runs a business by selling their products in markets over online channels. Store Owner needs a powerful dashboard to improve his store business.
 
 **The objectives of the Sales Report include:**
 
